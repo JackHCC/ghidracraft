@@ -1,5 +1,7 @@
 # Ghidracraft
 
+starcross
+
 ![logo](./logo.png)
 
 Ghidracraft is [bincraft](https://github.com/StarCrossPortal/bincraft)'s ghidra fork.
